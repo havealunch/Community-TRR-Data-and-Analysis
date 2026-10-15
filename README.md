@@ -1,5 +1,4 @@
 # Community-TRR-Data-and-Analysis
-# Community TRR Data and Analysis
 
 This repository contains community road-network GIS files, community-level predictor data, and code for measuring and analyzing traffic recovery resilience under extreme snowfall (TRR) in Shenyang, Harbin, and Changchun. The analytical sequence is: road-speed recovery calculation, severity adjustment, reverse min–max normalization, and subsequent machine-learning regression and SHAP interpretation.
 
